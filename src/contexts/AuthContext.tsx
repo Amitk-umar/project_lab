@@ -25,7 +25,7 @@ const mockUsers: AppUser[] = [
   {
     id: 'admin-1',
     email: 'admin@lab.com',
-    full_name: 'Dr. Priya Sharma',
+    full_name: 'Mr. Amit kumar',
     role: 'admin',
     department: 'Administration',
     phone: '+91 98765 43210',
@@ -36,7 +36,7 @@ const mockUsers: AppUser[] = [
   {
     id: 'tech-1',
     email: 'tech@lab.com',
-    full_name: 'Ramesh Gupta',
+    full_name: 'Roshan kumar',
     role: 'technician',
     department: 'Maintenance',
     phone: '+91 98765 43211',
@@ -47,7 +47,7 @@ const mockUsers: AppUser[] = [
   {
     id: 'staff-1',
     email: 'staff@lab.com',
-    full_name: 'Dr. Rajesh Kumar',
+    full_name: 'Ramanpreet kaur',
     role: 'staff',
     department: 'Chemistry',
     phone: '+91 98765 43212',
